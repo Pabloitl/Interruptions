@@ -1,3 +1,6 @@
+/*
+    Clase que evalúa expresiones
+*/
 package evaluator;
 
 import java.util.Stack;
