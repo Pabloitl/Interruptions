@@ -9,7 +9,7 @@ import java.util.Scanner; // Importamos la clase Escaner
  * ExpressionReader
  */
 public class ExpressionReader {
-    File file; // Creamos un archivo
+    File file; // Creamos un archivo 
 
     public ExpressionReader(String file) {
         this.file = new File(file); // Leemos el archivo 
