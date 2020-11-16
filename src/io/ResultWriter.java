@@ -24,7 +24,7 @@ public class ResultWriter {
             }
             writer.close(); // Cerramos el archivo
         } catch (IOException e) {
-            e.printStackTrace(); // Imprimos donde fue el error
+            e.printStackTrace(); // Imprimos donde fue el error en la pantalla
         }
     }
 }
