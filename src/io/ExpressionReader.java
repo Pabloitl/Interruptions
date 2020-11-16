@@ -26,6 +26,6 @@ public class ExpressionReader {
             e.printStackTrace(); // Imprimos donde fue el error
         }
 
-        return result.toArray(new String[]{});
+        return result.toArray(new String[]{}); // Retornamos el resultado del Array
     }
 }
